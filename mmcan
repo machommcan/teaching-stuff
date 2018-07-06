@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Matt's basic in Educiiton, learnnnnin ands grammering!!!</title>
+    <style>
+      body {  
+        background-color: black; 
+        
+        color:aqua;
+        text-align: center
+      }
+      body { font-weight: bolder}
+    .qqq   { background-color: palevioletred}
+      .MATh { font-family: fantasy;}
+      .qqq { font-weight: bolder}
+      .history {  font-family: monospace
+        
+      }
+      .history { color:darkred}
+    </style>
+  </head>
+  <body>
+    <h1> Matt's basic in Educiiton, learnnnnin ands grammering!!!</h1>
+    <ul> <h4>Tables off contentss</h4>
+         <a href="#MATH"> FuN timis in MAtH</a> <br>
+         <a href="#reading"> Wow Reading </a> <br>
+    <a href="#aaa"> Totally radical histary</a>
+    </ul>  
+    
+    <h1 id="MATH" class="MATh"> BaSACS iN thE ArTS oF MaTh.</h1>
+    <h3> ADDING: <br>
+      Q1: 1+1=<br>
+      STEP 1<br>
+      math<br>
+      STEP 2
+      GOOGLE<br>
+      <br>
+      <br>
+      ANSWER: </h3>
+    <h2> 3 </h2>
+    <img src="https://www.ihmc.ca/img/1+1.jpg"
+        alt="1+1=21">
+    <br>
+    <br>
+    <br>
+    <h3> Q2: <br>2$&3!(*I+:::)*^6%?:" + ^@(@&666)- >">:{"}{}: </h3>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h1> ANSWER: <br>
+    DO U KNO DA WAE</h1>
+    <img src="https://i.ytimg.com/vi/eix7fLsS058/maxresdefault.jpg" width="500px" >
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  
+    
+    <h1 id="reading"> Reading</h1>
+    <h3> Reading writing and grammer are very importint thangs.<br> I will teach u how to do reading.<br>
+      Now lets go!!!
+    </h3>
+    <br>
+    <br>
+    <h3> For the first 2 questons answer noun verb or adjitive.</h3>
+    <br>
+    <h4 class="qqq"> Q1</h4>
+    <h5 class="qqq"> Is boi a noun verb or adjative</h5>
+   
+    <h5 class="qqq">Answer: <br> IT'S A VERB </h5>
+    <br>
+    <br>
+    <br><br>
+    <h4 class="qqq"> Q2</h4>
+    <h5 class="qqq"> Is <br> jkfhbghjdchjdcdfu80euihfeww9uf09udewfhidfwjidwfwiuidfwoijdfoiu <br> a noun verb or adative</h5>
+   
+    <h5 class="qqq">ANSWER: <br> </h5> 
+    <h3 class="qqq">It's a 'headslamingonthekeyboard'
+      word </h3> <br> <br> <br>
+    <h4 class="qqq"> Q3</h4>
+ 
+    <h4 class= "qqq"> Write a similey</h4> 
+  <br> <br> <br>
+    <h5 class="qqq"> Answer (example):</h5>
+         </body>
+  <h4 class="qqq"> As dumb as an whoever is reading this <br></h4> <h6 class="qqq">Remeber that similes use likes and ads (#facebook)</h6>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <h1 id="aaa" class="history"> Totally True History</h1>
+  <br>
+  <h3 class="history"></h3>
+</html>
